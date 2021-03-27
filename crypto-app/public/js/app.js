@@ -19539,11 +19539,11 @@ var staticRenderFns = [
         [
           _c("th", { staticClass: "py-3 px-6 text-left" }, [_vm._v("Logo")]),
           _vm._v(" "),
-          _c("th", { staticClass: "py-3 px-6 text-left" }, [_vm._v("Price")]),
-          _vm._v(" "),
           _c("th", { staticClass: "py-3 px-6 text-left" }, [
             _vm._v("Currency")
           ]),
+          _vm._v(" "),
+          _c("th", { staticClass: "py-3 px-6 text-left" }, [_vm._v("Price")]),
           _vm._v(" "),
           _c("th", { staticClass: "py-3 px-6 text-left" }, [
             _vm._v("Market Cap")

@@ -12,8 +12,8 @@
                         <thead  class="min-w-max w-full table-auto">
                             <tr class="bg-gray-200 text-gray-600 uppercase text-sm leading-normal">
                                 <th class="py-3 px-6 text-left">Logo</th>
+                                   <th class="py-3 px-6 text-left">Currency</th>
                                 <th class="py-3 px-6 text-left">Price</th>
-                                <th class="py-3 px-6 text-left">Currency</th>
                                 <th class="py-3 px-6 text-left">Market Cap</th>
 
                             </tr>
